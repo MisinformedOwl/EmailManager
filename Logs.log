@@ -1,0 +1,33 @@
+2025-10-04 19:20:05,762 [INFO] - EmailDigest - Successfully logged into Gmail IMAP
+2025-10-04 19:20:05,808 [ERROR] - EmailDigest - Failed to select Sent Mail folder: NO
+2025-10-04 19:20:05,837 [INFO] - EmailDigest - Logged out of IMAP server
+2025-10-04 20:24:09,933 [INFO] - EmailDigest - Successfully logged into Gmail IMAP
+2025-10-04 20:24:10,078 [INFO] - EmailDigest - Found 1000 emails in INBOX
+2025-10-04 20:24:10,180 [INFO] - EmailDigest - Email ID: b'1000', Subject: Thank you for your Steam purchase!, From: "Steam Support" <noreply@steampowered.com>, To: jaydean1311@gmail.com
+2025-10-04 20:24:10,237 [INFO] - EmailDigest - Email ID: b'999', Subject: test, From: Jay <officalgamingjayz@gmail.com>, To: "JayDean1311@gmail.com" <JayDean1311@gmail.com>
+2025-10-04 20:24:10,289 [INFO] - EmailDigest - Email ID: b'998', Subject: Golden Week & Bundle Deals Are a Click Away!, From: Green Man Gaming <store@hello.greenmangaming.com>, To: jaydean1311@gmail.com
+2025-10-04 20:24:10,325 [INFO] - EmailDigest - Email ID: b'997', Subject: test, From: Jay Dean <jaydean1311@gmail.com>, To: Jay Dean <jaydean1311@gmail.com>
+2025-10-04 20:24:10,396 [INFO] - EmailDigest - Email ID: b'996', Subject: Take a look at these popular picks, From: Uber <uber@uber.com>, To: jaydean1311@gmail.com
+2025-10-04 20:24:10,435 [INFO] - EmailDigest - Email ID: b'995', Subject: Security alert, From: Google <no-reply@accounts.google.com>, To: JayDean1311@gmail.com
+2025-10-04 20:24:10,475 [INFO] - EmailDigest - Email ID: b'994', Subject: Jay, Happy Halloween Playlist Collection 2 is now on Netflix, From: Netflix <info@join.netflix.com>, To: jaydean1311@gmail.com
+2025-10-04 20:24:10,516 [INFO] - EmailDigest - Email ID: b'993', Subject: Security alert, From: Google <no-reply@accounts.google.com>, To: JayDean1311@gmail.com
+2025-10-04 20:24:10,645 [INFO] - EmailDigest - Email ID: b'992', Subject: Jay, your application for Software Developer has been sent, From: "Totaljobs" <info@email.totaljobs.com>, To: "Jay Dean" <jaydean1311@gmail.com>
+2025-10-04 20:24:10,715 [INFO] - EmailDigest - Email ID: b'991', Subject: “software engineer”: Apoello - Junior Software Engineer and more, From: LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>, To: Jay Dean <jaydean1311@gmail.com>
+2025-10-04 20:24:10,766 [INFO] - EmailDigest - Email ID: b'990', Subject: Up to 30% off autumn comforts \U0001f341, From: Uber Eats <uber@uber.com>, To: jaydean1311@gmail.com
+2025-10-04 20:24:10,831 [INFO] - EmailDigest - Email ID: b'989', Subject: “data engineer”: NG Bailey - Data Engineer (Structured Cabling) and more, From: LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>, To: Jay Dean <jaydean1311@gmail.com>
+2025-10-04 20:24:10,908 [INFO] - EmailDigest - Email ID: b'988', Subject: Jay, looking for a new job?, From: LinkedIn <jobs-noreply@linkedin.com>, To: Jay Dean <jaydean1311@gmail.com>
+2025-10-04 20:24:10,981 [INFO] - EmailDigest - Email ID: b'987', Subject: Stream, From: Worthabuy <bingo@patreon.com>, To: jaydean1311@gmail.com
+2025-10-04 20:24:11,111 [INFO] - EmailDigest - Email ID: b'986', Subject: Zebra People | B Corp™ recently posted, From: LinkedIn <updates-noreply@linkedin.com>, To: Jay Dean <jaydean1311@gmail.com>
+2025-10-04 20:24:11,170 [INFO] - EmailDigest - Email ID: b'985', Subject: Run Fast, From: "Andrew Tate" <tate@cobratate.com>, To: <jaydean1311@gmail.com>
+2025-10-04 20:24:11,279 [INFO] - EmailDigest - Email ID: b'984', Subject: Friday night stream, From: Worthabuy <bingo@patreon.com>, To: jaydean1311@gmail.com
+2025-10-04 20:24:11,438 [INFO] - EmailDigest - Email ID: b'983', Subject: Application Development request from Tommaso Lorino and other
+ clients are available. Show Requests., From: LinkedIn <notifications-noreply@linkedin.com>, To: Jay Dean <jaydean1311@gmail.com>
+2025-10-04 20:24:11,561 [INFO] - EmailDigest - Email ID: b'982', Subject: Jay: your job alert for Data Engineer in England, United Kingdom
+ has been created, From: LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>, To: Jay Dean <jaydean1311@gmail.com>
+2025-10-04 20:24:11,635 [INFO] - EmailDigest - Email ID: b'981', Subject: Just IT - Data Technician Skills Bootcamp -
+ GLA2/OX3/SYMCA4/NECA9/LRCA5 - Login, From: Maria Pearce <mariap@JustIT.co.uk>, To: "'jaydean1311@gmail.com'" <jaydean1311@gmail.com>
+2025-10-04 20:24:11,700 [INFO] - EmailDigest - Email ID: b'980', Subject: Jay: your job alert for Software Engineer in England, United
+ Kingdom has been created, From: LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>, To: Jay Dean <jaydean1311@gmail.com>
+2025-10-04 20:24:11,755 [INFO] - EmailDigest - Email ID: b'979', Subject: CTA - Application Received, From: "Corecom Technology Academy" <team@charliehr.com>, To: "Jay Dean" <jaydean1311@gmail.com>
+2025-10-04 20:24:11,801 [INFO] - EmailDigest - Email ID: b'978', Subject: Reset your password, From: "Totaljobs" <info@email.totaljobs.com>, To: "Jay Dean" <jaydean1311@gmail.com>
+2025-10-04 20:24:12,007 [ERROR] - EmailDigest - Error during IMAP logout
